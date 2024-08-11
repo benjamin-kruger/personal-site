@@ -7,7 +7,7 @@
   --font-monospace: monospace;
   --font-sans-serif: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica,
     Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
-  --font-size-content: 1rem;
+  --font-size-content: 1.3rem;
 }
 
 .nav-line {
@@ -17,7 +17,7 @@
   align-items: center;
   justify-content: flex-end;
   text-align: right;
-  font-size: 1.2rem;
+  font-size: 1.3rem;
 }
 .nav-line .nav-link {
   margin-left: 2rem;
@@ -67,7 +67,7 @@ body > header {
 body > header > div {
   letter-spacing: 0.025em;
   font-weight: 500;
-  font-size: 1.5rem;
+  font-size: 1.6rem;
   width: 20rem;
   height: 3rem;
   margin-top: 3rem;
